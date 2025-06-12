@@ -1,0 +1,10 @@
+{
+    "download_dir": "C:\\Users\\Administrator\\Desktop\\pyc\\专利下载模块化\\downloads",
+    "proxy": "127.0.0.1:7890",
+    "delay": 5,
+    "timeout": 30,
+    "retry_count": 3,
+    "chunk_size": 8192,
+    "log_level": "调试",
+    "resume_download": true
+}
